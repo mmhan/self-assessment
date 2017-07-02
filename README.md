@@ -82,3 +82,5 @@ you to analyze your performance better.
 3. Proof-reading, editing of the wordings so that it's high-school
    level.
 4. Should I accept donations to support activities related to this?
+5. Should I stick to GPL 3.0 licence? I have no idea which licence I
+   should use.
