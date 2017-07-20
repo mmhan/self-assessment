@@ -5,6 +5,7 @@ This documentation is a result of the work I have done in order to optimize our 
 ## Why do you need to do self-assessment?
 
 - Each employee in your organization should reflect on oneself periodically to understand whether they are performing to their fullest potential.
+
 - Every managers that is supervising should also reflect on oneself as well as oversee the self-assessment of those below him/her.
 - Once the self-assessments are done ensure that the manager and the employees engage in a conversation in order to maximize efficiency. The length of the conversation should vary depending on the frequency of self-assessment made as well as the professional relationship between the manager and the employee.
 	- When manager doesn't agree the high rating that the employee has given himself, talk to him to let him understand which are the areas that the employee is not meeting the expectations.
